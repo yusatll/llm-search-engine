@@ -1,0 +1,11 @@
+The document provides information on the activities of a group of cybercriminals, specifically Qaiser and his American co-conspirator, Raymond Odigie Uadiale. Investigators discovered that Qaiser's network had earned around £700,000, although it is believed that they may have earned more than £4 million. The ransomware used by this group would instruct victims to purchase GreenDot MoneyPak vouchers and enter the code in the Reveton panel displayed on their screens. The money entered into a MoneyPak account managed by Qaiser, which was then deposited into Uadiale's debit card account.
+
+The authorities made a breakthrough when they seized the Liberty Reserve servers in May 2013, gaining access to all transactions and account history. This allowed them to track down and arrest Qaiser and others involved in the scheme. Qaiser had been using his MacBook Pro to run encrypted virtual machines with both Mac and Windows operating systems.
+
+It is also mentioned that Uadiale, a naturalized US citizen of Nigerian descent, was jailed for 18 months. The document also mentions the arrest of 50 members of the Lurk malware gang by Russian police in June 2016.
+
+The document also touches on the issue of making the creation of ransomware illegal. Lawmakers are considering making it illegal to create and distribute ransomware, with some states, such as Maryland, already having laws in place to punish those who create such software.
+
+Additionally, the document mentions a minor in Japan who was arrested for creating and distributing ransomware code. It also references the publication of proof-of-concept attack code by academic researchers and vulnerability researchers, which is common practice but could be considered illegal if made criminal.
+
+Finally, the document notes that the source code to a ransomware cryptotrojan has been publicly available since 2005 on the website cryptovirology.com.

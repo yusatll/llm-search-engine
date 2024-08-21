@@ -1,0 +1,13 @@
+Here's the translation of the document into Turkish:
+
+Belge, Qaiser ve Amerikan ortaklarından Raymond Odigie Uadiale'nin çevrecilik grubunu oluşturan aktivitelerine ilişkin bilgiler sağlar. Araştırıcılar, Qaiser'in ağı’nın yaklaşık 700.000 Pound kazandığını keşfetti; ancak bu grup daha fazla 4 milyon Pound kazandığına inanılıyor. Bu gruba ait ransomware, mağdurlara GreenDot MoneyPak voucherlerini satın almalarını ve ekranda görüntülenmekte olan Reveton paneline kodu girmelerini talim eder. Para, Qaiser tarafından yönetilen bir MoneyPak hesabı'na girilir ve daha sonra Uadiale'in debit kart hesabı'ına aktarılır.
+
+Otoriteler, Mayıs 2013'de Liberty Reserve sunucularını ele geçirdiğinde, tüm işlemleri ve hesap tarihi erişime açıldı. Bu, Qaiser'i ve scheme'deki diğerlerini takip edip tutuklamalarına izin verdi. Qaiser, MacBook Pro'yu kullandığı şifreli sanal makineleri çalıştırmaya başladı, hem Mac hem de Windows işletim sistemlerine sahip.
+
+Belge ayrıca, Uadiale'in 18 ay hapis cezasına çarptırıldığını ve Lurk malware gang'ının 50 üyesinin Haziran 2016'da Rus polisince tutuklandığını da belirtir.
+
+Belge, ransomware oluşturmaya ve dağıtmaya yasaklama konusunu da dokunur. Yasama organları, ransomware oluşturmak ve dağıtmak için yasa yapma sürecindedir; bazı eyaletlerde, örneğin Maryland'da, bu tür yazılım oluşturanları cezalandırmaya yarayan yasalar bulunmaktadır.
+
+Belge ayrıca, Japonya'daki bir minor'ın ransomware kodu oluşturmaya ve dağıtmaya tutuklandığını da belirtir. Ayrıca, akademik araştırma ve Güvenlik araştırmacılarının kamuoyuna açıklayıp attack code'un yayımlamasına atıf yapar; bu pratik, ancak yasayla yasaklanmaya çalışılırsa illegal olarak kabul edilebilir.
+
+Son olarak, belge, 2005 yılından beri cryptovirology.com sitesinde pública olarak mevcutsü ransomware kriptotroyanı'nın kaynak kodunu bildirmektedir.
